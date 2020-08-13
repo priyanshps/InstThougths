@@ -1,5 +1,5 @@
 # InstThoughts
-developed thought sharing api using nodejs,mongodb,Express, google OAuth
+developed thought sharing web application using nodejs,mongodb,Express, google OAuth
 thougth includes title, content-body, user details
 
 ## Features
